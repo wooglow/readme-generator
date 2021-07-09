@@ -21,12 +21,13 @@
 - This app is designed for web developmentor to begin with good and concise readme file
 
 ## Install:
-    - 1. Open internal terminal of index.js 2. Type "npm init -y", then "npm i inquerier" 
+    - 1. Open internal terminal of index.js 
+    - 2. Type "npm init -y", then "npm i inquerier" 
 
 ## Usage: 
     - Please type "node index" on your terminal and answers the following questions exactly as you can
 
-[![usagevideo](./utils/Readme-file-generator-trial-video)]
+![usagevideo](./utils/Readme-file-generator-trial-video)
 
 ## Contributor:  
 - Daeyoung Bae 
