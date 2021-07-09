@@ -25,7 +25,8 @@
 
 ## Usage: 
     - Please type "node index" on your terminal and answers the following questions exactly as you can
-[![usagevideo](./utils/Readme-file-generator-trial-video)
+
+![usagevideo](./utils/Readme-file-generator-trial-video)
 
 ## Contributor:  
 - Daeyoung Bae 
